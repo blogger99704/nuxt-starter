@@ -1,0 +1,33 @@
+{
+  "title": "Mastering SEO in 2025: How to Boost Your Website Visibility",
+  "description": "Learn how to optimize your website for search engines in 2025. Discover strategies for better rankings, organic traffic, and higher conversion rates.",
+  "layout": "landing",
+  "date": "2025-10-28T00:00:00Z",
+  "author": "Gerart Digital",
+  "featured_image": "/images/seo-landing-cover.jpg",
+  "cta": {
+    "text": "Start Improving Your SEO",
+    "url": "/contact"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "heading": "Boost Your Rankings with Smart SEO Strategies",
+      "subheading": "Discover how to stay ahead of Google’s algorithms and dominate search results in 2025.",
+      "button_text": "Learn More",
+      "button_link": "#article"
+    },
+    {
+      "type": "article",
+      "id": "article",
+      "content_format": "markdown",
+      "content": "### What Is SEO?\nSearch Engine Optimization (SEO) is the practice of improving your website to increase its visibility in search engine results pages (SERPs). The higher your site ranks, the more likely people are to discover it.\n\n### Why SEO Still Matters in 2025\nEven as AI-driven search evolves, SEO remains a core digital marketing strategy. With billions of daily searches, organic visibility is one of the most cost-effective ways to attract qualified visitors.\n\n### Key SEO Strategies for 2025\n1. **AI and Search Intent Optimization** – Understanding user intent is now critical. Google’s algorithms reward content that genuinely satisfies what users are looking for.\n2. **E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness)** – Build credibility with high-quality content, expert authors, and transparent site structures.\n3. **Mobile-First and Core Web Vitals** – Websites that load fast and offer a great mobile experience continue to outperform competitors.\n4. **High-Quality Backlinks** – Earning links from trusted, relevant sites is still one of the strongest ranking factors.\n\n### Final Thoughts\nSEO is not a one-time task—it’s a long-term investment in your online visibility. Businesses that continually adapt to new algorithms and search behaviors will thrive. Stay consistent, analyze performance, and always prioritize user value."
+    },
+    {
+      "type": "cta",
+      "heading": "Ready to Take Your SEO to the Next Level?",
+      "button_text": "Get a Free SEO Audit",
+      "button_link": "/contact"
+    }
+  ]
+}
